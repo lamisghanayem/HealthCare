@@ -1,0 +1,17 @@
+header ul{float: right;
+    list-style-type: none;
+     }
+    
+     ul li{display: inline;}
+    
+    ul li a {text-decoration: none;
+    color:  #f4f4f4;
+    border: solid #f4f4f4;
+    padding: 5px 20px;
+    }
+
+    footer{color:  #222831;
+        font-size: 12px;
+        text-align: center;}
+
+        
